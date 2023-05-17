@@ -1,0 +1,15 @@
+C:\Users\nesto\source\repos\ApiDockerApp\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Users\nesto\source\repos\ApiDockerApp\Datos\bin\Debug\net6.0\Datos.dll
+C:\Users\nesto\source\repos\ApiDockerApp\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Users\nesto\source\repos\ApiDockerApp\Datos\bin\Debug\net6.0\Dominio.dll
+C:\Users\nesto\source\repos\ApiDockerApp\Datos\bin\Debug\net6.0\Dominio.pdb
+C:\Users\nesto\source\repos\ApiDockerApp\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\nesto\source\repos\ApiDockerApp\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesto\source\repos\ApiDockerApp\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\nesto\source\repos\ApiDockerApp\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Users\nesto\source\repos\ApiDockerApp\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\nesto\source\repos\ApiDockerApp\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+C:\Users\nesto\source\repos\ApiDockerApp\Datos\obj\Debug\net6.0\Datos.dll
+C:\Users\nesto\source\repos\ApiDockerApp\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\Users\nesto\source\repos\ApiDockerApp\Datos\obj\Debug\net6.0\Datos.pdb
+C:\Users\nesto\source\repos\ApiDockerApp\Datos\obj\Debug\net6.0\ref\Datos.dll
