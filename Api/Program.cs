@@ -18,7 +18,7 @@ using System.Security.Claims;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-#region "Inyección de Dependencia"
+#region "Inyecciï¿½n de Dependencia"
 var connectionString = builder.Configuration.GetConnectionString("SqlConnections");
 builder.Services.AddDbContext<ApplicationsContext>(x =>
 {
@@ -48,9 +48,9 @@ builder.Services.AddKeycloakAuthentication(authenticationOptions);
 builder.Services.AddAuthentication(options =>
 {
 
-    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultAuthenticateScheme = CookieAuthenticationDefaults.AuthenticationScheme;
     options.DefaultSignInScheme = CookieAuthenticationDefaults.AuthenticationScheme;
-    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = OpenIdConnectDefaults.AuthenticationScheme;
 })
 .AddCookie(cookie =>
 {
