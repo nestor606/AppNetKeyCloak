@@ -8,7 +8,6 @@ using Aplicacion.Servicios;
 using Microsoft.Extensions.Configuration;
 using Keycloak.AuthServices.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
-using Microsoft.AspNetCore.Authentication.OpenIdConnect;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Protocols.OpenIdConnect;
