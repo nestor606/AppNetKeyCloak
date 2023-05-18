@@ -2,7 +2,8 @@
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /SOURCE
 COPY . . 
-  
+
+RUN dotnet restore  
 RUN dotnet publish "./Api/Api.csproj" -c release -o ./../App
 
 
